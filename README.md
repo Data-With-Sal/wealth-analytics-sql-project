@@ -51,5 +51,7 @@ You work on a wealth management site and want to understand:
 
 📌 About the Author
 
-Created by [Sal McClain](https://www.linkedin.com/in/saljmcclainanalyticsconsultant?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) as part of an ongoing SQL portfolio series.  
-Sal also writes [**Beyond the Metrics**](https://open.substack.com/pub/saljmcclain?r=6j0dkn&utm_medium=ios), a newsletter exploring how analytics, strategy, and storytelling unlock business value, especially in finance and enterprise marketing.
+Created by [Sal J McClain](https://www.linkedin.com/in/saljmcclainanalyticsconsultant)
+
+📬 Subscribe to my newsletter: [**Beyond the Metrics**](https://open.substack.com/pub/saljmcclain?r=6j0dkn&utm_medium=ios)  
+Where I explore how analytics, strategy, and storytelling unlock business value, especially in finance, e-commerce and enterprise marketing.
