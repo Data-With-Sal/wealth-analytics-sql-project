@@ -17,9 +17,6 @@ This project simulates how a data analyst would track and analyze user behavior 
 The bar chart below shows the total number of visits by content type, helping identify which areas of the site users engage with most.
 
 ![Total Visits by Content Type](https://github.com/Data-With-Sal/wealth-analytics-sql-project/blob/a7d5b491cb5a8d0d02a7255549e49f2414b33e90/Total%20Visits%20by%20Content%20Type.jpg)
-
----
-
 🛠️ Tools Used
 
 - PostgreSQL
