@@ -44,7 +44,7 @@ This project simulates how a data analyst would track and analyze user behavior 
 You work on a wealth management site and want to understand:
 
 - Which pages users click on the most
-- What types of content (videos, blogs, guides) get the most engagement
+- What types of content (videos, articles, ebooks) get the most engagement
 - How many users click on each type of content
 
 ---
